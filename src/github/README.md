@@ -1,6 +1,6 @@
 # GitHub MCP Server
 
-**Deprecation Notice:** Development for this project has been moved to GitHub in the http://github.com/github/github-mcp-server repo.
+**Deprecation Notice:** Development for this project has been moved to GitHub in the https://github.com/github/github-mcp-server repo.
 
 ---
 
